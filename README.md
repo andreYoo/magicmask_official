@@ -1,1 +1,1 @@
-# magicmask official
+# MagicMask official
